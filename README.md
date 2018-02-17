@@ -3,8 +3,7 @@
 ## Escrow management is .... describe ...
 ## By using Blockchain we will be able to save house buyers ....
 
-## To implement our app we used Hyperledger Composer, a development environment to create a business network that is deployed
-## in the open source Hyperledger Fabric Blockchain.
+## To implement our app we used Hyperledger Composer, a development environment to create a business network that is deployed in the open source Hyperledger Fabric Blockchain.
 
 ## We will now show you how it works: ....
 
