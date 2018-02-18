@@ -11,6 +11,6 @@
 
 ## The User Interface: business network comes with a REST API that is used by a user interface. Here is our User Interface
 
-## To deploy our app we are going to use the IBM Blockchain Enterprise Plan in the IBM Clou, a tailormade Blockchain environment.
+## To deploy our app we are going to use the IBM Blockchain Enterprise Plan in the IBM Cloud, a tailormade Blockchain environment.
 
 <img src="https://farm5.staticflickr.com/4764/39167257885_b2685974cc_b.jpg" width="1024" height="656" alt="Overview second">
